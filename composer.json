@@ -1,5 +1,5 @@
 {
-    "name": "doctrine/doctrine-bundle",
+    "name": "se7enxweb/doctrine-bundle",
     "type": "symfony-bundle",
     "description": "Symfony DoctrineBundle",
     "keywords": ["DBAL", "ORM", "Database", "Persistence"],
@@ -51,7 +51,7 @@
         "symfony/validator": "^3.4.30|^4.3.3",
         "symfony/web-profiler-bundle": "^3.4.30|^4.3.3",
         "symfony/yaml": "^3.4.30|^4.3.3",
-        "twig/twig": "^1.34|^2.12"
+        "se7enxweb/twig": "^1.34|^2.12"
     },
     "config": {
         "sort-packages": true
